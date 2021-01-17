@@ -1,0 +1,51 @@
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #fafafa;
+}
+
+@keyframes slideright {
+  from {
+    background-position: 525px;
+  }
+
+  to {
+    background-position: 0;
+  }
+}
+
+#background {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: absolute;
+  bottom: 0;
+  background-image: url(../img/background.png);
+  background-repeat: repeat-x;
+  animation: slideright 1.06s linear infinite;
+}
+
+#dino {
+  width: 60px;
+  height: 60px;
+  background-image: url(../img/dino.png);
+  position: absolute;
+  bottom: 0;
+}
+
+.cactus {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  background-image: url(../img/cactus.png);
+  bottom: 0;
+}
+
+.warn {
+  font-family: arial;
+  color: #666;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
