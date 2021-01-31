@@ -1,0 +1,2 @@
+C:\Users\criss\GITHUB\Bootcamp Digital Inovation One\GFT 2021\Desevolvendo algoritmos em CSHARP\Cálculo de viagem\obj\Debug\Cálculo de viagem.csprojAssemblyReference.cache
+C:\Users\criss\GITHUB\Bootcamp Digital Inovation One\GFT 2021\Desevolvendo algoritmos em CSHARP\Cálculo de viagem\obj\Debug\Cálculo de viagem.csproj.CoreCompileInputs.cache
